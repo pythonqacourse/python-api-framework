@@ -23,3 +23,8 @@ It should pass first time.
 cd /my/project/
 poetry run python -m pytest
 ```
+# States graph
+![graph](https://raw.githubusercontent.com/pythonqacourse/python-api-framework/main/docs/States.PNG)
+
+# Task description
+[here](https://github.com/pythonqacourse/python-api-framework/blob/7d8927451cde6c0bb36aa8b44bdf006ed8c01912/docs/Technical_test_Test_Automation.pdf)
