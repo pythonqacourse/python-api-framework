@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "python-api-framework"
+version = "0.1.0"
+description = "Educational framework to run API tests"
+authors = [
+    "Kirill L <2flashback@gmail.com>"
+]
+
+[tool.poetry.dependencies]
+python = "~3.9"
+pytest = "^6.2.5"
+requests = "^2.27.1"
+pre-commit = "2.16.0"
+assertpy = "^1.1"
+
+[tool.poetry.dev-dependencies]
+bottle = "^0.12"
+cacheout = "^0.13.1"
+transitions = "^0.8.11"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
