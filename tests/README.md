@@ -1,4 +1,4 @@
-# Setup mock server for local debug if needed
+# Setup mock server for local debug
 ### Run server
 ```shell
 cd /my/project/
